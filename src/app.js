@@ -4,10 +4,10 @@ const app = express();
 
 const apartamentos = [
   {
-    id: 101, proprietario: "Fulano"
+    id: 101, owner: "Fulano"
   },
   {
-    id: 102, proprietario: "Ciclano"
+    id: 102, owner: "Ciclano"
   }
 ];
 
